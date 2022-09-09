@@ -1,9 +1,9 @@
 ## Oiii eu sou o Tiago!
 <div align="center">
   <a href="https://github.com/tiagolipskidev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagolipskidev&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs"/>
-     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolipskidev&layout=compact&langs_count=7&theme=nightowl"/>
+  <img width="42% height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagolipskidev&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs"/>
+       
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolipskidev&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
 <div style="display: inline_block"><br>
